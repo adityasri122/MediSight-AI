@@ -131,7 +131,7 @@ The core function runs entirely on your local machine. **This ensures greater pr
 * **Accuracy:** AI output is not guaranteed to be accurate or complete. **Always consult a qualified healthcare professional.**
 
 # Created By 
-### Trisach Joshi
-### Diptak Chattopadhyay
-### Aniket Sahu
+**Aditya Srivastava**  
+Final Year B.Tech | Software Developer
+
 
